@@ -15,7 +15,7 @@ export const Card =() => {
                     <p>Paragraph here</p>
                     </Head>
                 <a href="http" className="btn btn-primary">
-                    Go somewhere
+                    Go somewhere here
                 </a>
             </div>
         </div>
